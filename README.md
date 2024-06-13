@@ -22,8 +22,8 @@ Esta es la solucion al reto [Four card feature section challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [URL](https://github.com/chefoce/product-preview-card-component)
-- Live Site URL: [URL](https://chefoce.github.io/product-preview-card-component/)
+- Solution URL: [URL](https://github.com/chefoce/four-card-feature-section-master-main)
+- Live Site URL: [URL](https://chefoce.github.io/four-card-feature-section-master-main/)
 
 /*Pendiente*/
 ## Author
